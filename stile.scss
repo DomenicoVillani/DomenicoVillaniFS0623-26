@@ -1,0 +1,44 @@
+body{
+    color: white;
+    margin: 2%;
+}
+#navbarScroll > ul > li:nth-child(1) > a,
+#navbarScroll > ul > li:nth-child(2) > a,
+#navbarScroll > ul > li:nth-child(3) > a,
+#navbarScroll > ul > li:nth-child(4) > a,
+#navbarScroll > ul > li:nth-child(5) > a{
+    color: white;
+}
+#tvShowsCont,
+#trendingNow,
+#WatchItAgain,
+#NewReleases{
+    margin-left: 1%;
+}
+h1{
+    font-size: 3rem;
+}
+#navbarScroll > div > ul > li.nav-item.dropdown > img{
+    width: 30px;
+}
+.dimensione{
+    width: 22%;
+    margin: 1%;
+    &:hover{
+        transform: scale(1.2);
+        transition-duration: 0.5s;
+    }
+}
+.contFilm{
+    margin-left: 1.5%;
+}
+.marginIcon{
+    margin: 10% 2%;
+}
+.marginFooter{
+    margin-left: 9%;
+}
+footer{
+    opacity: 0.5;
+    font-size: 0.8rem;
+}

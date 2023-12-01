@@ -1,0 +1,18 @@
+header,
+#navbarScroll > ul > li:nth-child(1) > a,
+#navbarScroll > ul > li:nth-child(2) > a,
+#navbarScroll > ul > li:nth-child(3) > a,
+#navbarScroll > ul > li:nth-child(4) > a,
+#navbarScroll > ul > li:nth-child(5) > a {
+  color: white;
+}
+
+main {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.headingCont {
+  opacity: 0.5;
+  font-size: 1rem;
+}/*# sourceMappingURL=stileSettings.css.map */
